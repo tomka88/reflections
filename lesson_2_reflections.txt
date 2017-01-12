@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+During initialisation we start tracking the the changes that is happening inside the folder with git's version control system. This way git will know when something changes in the document and it will be easy to rewert the file to an earlier version.
