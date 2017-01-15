@@ -33,3 +33,6 @@ merging adds the feature to the master branch. it usually updates the current ve
 
 -------------------
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+git takes into consideration which files have been changed and stops when it finds a conflict this allows the developer to trace back the changes manually in the working directory.
