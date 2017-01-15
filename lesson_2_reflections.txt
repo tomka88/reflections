@@ -25,3 +25,11 @@ How do the diagrams help you visualize the branch structure?
 
 They help us understand at what point of time the branch was created. What commits/feature-set did master have at the point of creation.
 
+-------------------
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging adds the feature to the master branch. it usually updates the current version of the application with a new feature
+
+-------------------
+
