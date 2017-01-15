@@ -1,0 +1,6 @@
+When would you want to create a remote repository rather than keeping all your work locally?
+
+I would want to create a remote repository in the following situations:
+    - more people are working on the same project
+    - when I want show / send someone the code I was working on
+    - when I have multiple I am working from
