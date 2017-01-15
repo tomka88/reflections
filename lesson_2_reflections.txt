@@ -2,6 +2,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 During initialisation we start tracking the the changes that is happening inside the folder with git's version control system. This way git will know when something changes in the document and it will be easy to rewert the file to an earlier version.
 
+-------------------
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Tha staging area is good for testing and double-checking the feature / changes in the repository before committing it to master
+
+-------------------
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can add files separately to staging and the commit them one-by-one
