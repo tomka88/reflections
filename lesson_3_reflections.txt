@@ -11,3 +11,11 @@ I would want to create a remote repository in the following situations:
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you want to be in control when pulling something to the local machine.
+
+------------------
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Forks create a copy of an existing repository from another user's account to your account.
+- Clones create a copy to your own local machine.
+- Branches are Variations of the same repository.
