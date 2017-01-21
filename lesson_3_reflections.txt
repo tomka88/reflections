@@ -19,3 +19,9 @@ Describe the differences between forks, clones, and branches. When would you use
 - Forks create a copy of an existing repository from another user's account to your account.
 - Clones create a copy to your own local machine.
 - Branches are Variations of the same repository.
+
+------------------
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This way we can make sure that our version won't conflict with what the latest master is remotely. We can also incorporate the changes that others made while we were working on something else.
