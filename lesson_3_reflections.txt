@@ -31,3 +31,9 @@ This way we can make sure that our version won't conflict with what the latest m
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 without Git or GitHub communication would be quite hard between developers. They would need to compare different versions of their code and possibly would need to be physically present to show and discuss changes. Git and GitHub helps devs a great deal and speeds up the process.
+
+------------------
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It makes sense to create a seperate branch when we are planning to extend the capabilities of master or we just want to experiment with new ideas. Changing master directly only makes sense when we want to execute quick and small changes.
